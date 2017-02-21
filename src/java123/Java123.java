@@ -13,4 +13,7 @@ public class Java123 {
     public void addfeatureB(){
         System.out.println("Feature B");
     }
+    public void addfeatureA(){
+        System.out.println("Feature A");    
+    }
 }
