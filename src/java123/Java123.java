@@ -15,5 +15,4 @@ public class Java123 {
     }
     public void addfeatureA(){
         System.out.println("Feature A");    
-    }
 }
